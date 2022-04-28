@@ -3,6 +3,7 @@ nou(no-option-usage) is a tool that outputs Usage even when there are no options
 
 ## Usage
 1. If nothing is passed as an argument   
+
 smp.go
 ```
 package main
@@ -22,6 +23,7 @@ Try 'smp -help' for more information.
 ```
 
 2. If you want to write your own Usage
+
 smp.go
 ```
 package main
